@@ -1,3 +1,3 @@
-var el = document.getElementById('#main');
+var el = document.getElementById('main');
 
 el.remove();
