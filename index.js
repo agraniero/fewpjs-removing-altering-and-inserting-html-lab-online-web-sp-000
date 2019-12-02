@@ -3,4 +3,4 @@ el.remove();
 
 var newHeader = document.createElement('h1');
 newHeader.id = 'victory';
-newHeader.appendChild('anthony is the champion')
+newHeader.appendChild('anthony is the champion');
